@@ -11,5 +11,7 @@
     "pipeline",
     "simulator"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT"
 }
