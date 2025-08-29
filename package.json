@@ -4,7 +4,8 @@
   "description": "A simulator for CI pipelines",
   "main": "src/main.py",
   "scripts": {
-    "start": "python src/main.py"
+    "start": "python src/main.py",
+    "readme": "echo 'This is a CI pipeline simulator. Use the start script to run it.'"
   },
   "keywords": [
     "CI",
