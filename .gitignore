@@ -1,3 +1,4 @@
+# This .gitignore file ignores dependencies and compiled Python files
 node_modules/
 *.pyc
 __pycache__/
