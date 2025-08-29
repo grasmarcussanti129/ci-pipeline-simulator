@@ -1,0 +1,6 @@
+{
+    "project_name": "example_project",
+    "build_commands": ["echo Building..."],
+    "test_commands": ["echo Running tests..."],
+    "deploy_commands": ["echo Deploying..."]
+}
