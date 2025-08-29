@@ -1,0 +1,9 @@
+{
+  "name": "ci-pipeline-simulator",
+  "version": "1.0.0",
+  "main": "src/main.py",
+  "scripts": {
+    "start": "python src/main.py"
+  },
+  "dependencies": {}
+}
